@@ -7,11 +7,7 @@ allow users to share there thoughts, reactions and add friends
 ## Table of Contents
 
 - [Installation Instructions](#installation-instructions)
-- [Usage](#usage)
-- [Contribution Guidelines](#contribution-guidelines)
-- [Testing Instructions](#testing-instructions)
 - [Questions](#questions)
-- [Licenses](#licenses)
 
 ## Installation Instructions
 
